@@ -1,4 +1,4 @@
-const { default: InstagramChatAPI } = require('neokex-ica');
+const { default: InstagramChatAPI } = require('@neoaz07/nkxica');
 const fs = require('fs');
 const config = require('./config');
 const logger = require('./utils/logger');
